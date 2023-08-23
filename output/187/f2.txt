@@ -1,0 +1,8 @@
+k4*k5*k6 + k4*k5*k7 + k4*k6*k7 + k4*k5 + k4*k7 + k5*k7 + k6*k7 + k6 + k26 + 1
+k0*k1*k2 + k0*k1*k3 + k0*k2*k3 + k0*k1 + k0*k3 + k1*k3 + k2*k3 + k2 + k25 + 1
+k4*k5*k7 + k4*k6*k7 + k4*k6 + k6*k7 + k4 + k5 + k24
+k0*k1*k3 + k0*k2*k3 + k0*k2 + k2*k3 + k0 + k1 + k23
+k4*k5*k6 + k4*k5*k7 + k4*k6*k7 + k4*k5 + k5*k6 + k4*k7 + k4 + k5 + k6 + k7 + k22
+k0*k1*k2 + k0*k1*k3 + k0*k2*k3 + k0*k1 + k1*k2 + k0*k3 + k0 + k1 + k2 + k3 + k21
+k5*k6 + k4 + k7 + k20
+k1*k2 + k0 + k3 + k19
